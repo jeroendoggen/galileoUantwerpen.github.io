@@ -1,4 +1,4 @@
-
+<link href="http://kevinburke.bitbucket.org/markdowncss/markdown.css" rel="stylesheet"></link>
 
 # Welcome at the pages of Intel Galileo Boards at U. Antwerpen #
 
@@ -11,7 +11,7 @@ happening with these boards.
 The boards are available for students, employees of U. Antwerpen,
 members of Maker community in the Antwerp Region for projects. 
 
-# How to get acces to the  boards 
+# How to get access to the  boards 
 
 Write an email to galileo.uantwerpen@gmail.com with a description of
 your project, the number of boards that are requiredn and the proposed
