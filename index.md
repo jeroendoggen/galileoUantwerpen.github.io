@@ -34,15 +34,13 @@ period that you need them.
   the news.
  
  
-# 
-
-Luc Claeys. 9/1/2014. 
-Michiel Van Dyck. 8/1/2014
-Przemek Klosiewicz 8/1/2014  07
-Maarten Weyn. 9/1/2014  03
-Anthony Liekens. 9/1/2014 06
-Anthony Liekens. 9/1/2014 04
-Simon   9/1/2014 05. 
-
-
+# Who borrowed one?
+ * Luc Claeys. 9/1/2014. 
+ * Michiel Van Dyck. 8/1/2014
+ * Przemek Klosiewicz 8/1/2014  (07)
+ * Maarten Weyn. 9/1/2014  (03)
+ * Anthony Liekens. 9/1/2014 (06)
+ * Anthony Liekens. 9/1/2014 (04)
+ * Simon   9/1/2014 (05)
+ * Jeroen Doggen 7/05/015 (14, 16)
 
